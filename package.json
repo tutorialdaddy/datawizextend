@@ -1,0 +1,18 @@
+{
+  "name": "datawizextend",
+  "version": "0.1.2",
+  "description": "Extended statistical functions for DataWizJS.",
+  "main": "extendedstats.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutorialdaddy/datawizextend.git"
+  },
+  "dependencies": {
+    "datawizjs": "^0.1.0",
+    "datawizvizextra": "^0.1.0",
+	"blocksage": "^0.1.0",
+    "simple-statistics": "^7.0.0"
+  },
+  "author": "tutorialdaddy",
+  "license": "MIT"
+}
